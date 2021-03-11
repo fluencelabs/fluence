@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ProviderError","Errors that happen during `ProviderRepository` reading or writing"]],"struct":[["Provider","A representation of a service provider"],["ProviderRepository","Thread-safe storage of providers"]]});

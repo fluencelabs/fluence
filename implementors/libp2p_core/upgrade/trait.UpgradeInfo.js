@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["particle_protocol"] = [{"text":"impl UpgradeInfo for <a class=\"struct\" href=\"particle_protocol/struct.ProtocolConfig.html\" title=\"struct particle_protocol::ProtocolConfig\">ProtocolConfig</a>","synthetic":false,"types":["particle_protocol::libp2p_protocol::upgrade::ProtocolConfig"]},{"text":"impl UpgradeInfo for <a class=\"enum\" href=\"particle_protocol/enum.HandlerMessage.html\" title=\"enum particle_protocol::HandlerMessage\">HandlerMessage</a>","synthetic":false,"types":["particle_protocol::libp2p_protocol::message::HandlerMessage"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

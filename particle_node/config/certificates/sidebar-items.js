@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["init","Loads all certificates from a disk. Creates a root certificate for key pair if there is no one."],["load_certificates","Reads all files in `cert_dir` as certificates. Throw an error, if one of the files has an incorrect format."],["store_root_certificate",""]]});

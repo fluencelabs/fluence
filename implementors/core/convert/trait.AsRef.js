@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["aquamarine"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.AsRef.html\" title=\"trait core::convert::AsRef\">AsRef</a>&lt;<a class=\"struct\" href=\"particle_protocol/particle/struct.Particle.html\" title=\"struct particle_protocol::particle::Particle\">Particle</a>&gt; for <a class=\"struct\" href=\"aquamarine/struct.AwaitedParticle.html\" title=\"struct aquamarine::AwaitedParticle\">AwaitedParticle</a>","synthetic":false,"types":["aquamarine::awaited_particle::AwaitedParticle"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

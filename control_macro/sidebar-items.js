@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["get_return","Retrieves value from `Some`, returns on `None`"],["ok_get","Takes option as an argument, unwraps if `Some`, exit function with `Ok(default)` otherwise Ought to make it easier to short-circuit in functions returning `Result<Option<_>>`"],["unwrap_return","Retrieves value from `Some`, returns on `None`"]]});

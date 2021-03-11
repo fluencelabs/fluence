@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["blueprint_dir",""],["create_dirs",""],["modules_dir",""],["particles_dir",""],["services_dir",""],["to_abs_path",""],["to_peer_id",""],["workdir",""]]});
